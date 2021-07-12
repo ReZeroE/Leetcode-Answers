@@ -13,3 +13,6 @@ class Solution(object):
                 return i
             
         return -1
+
+
+print(34912833 % 10)
